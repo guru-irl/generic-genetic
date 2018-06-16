@@ -1,5 +1,5 @@
 # Generic Module for Neuroevolution
-This repository hold a generic module(class) that can be used for Neuroevolution (Genetic Algorithms) in various environments. It's heavily based on my [String Matcher](https://github.com/gurupunskill/string-matcher) implementation but instead of strings, we use Neural Networks.
+This repository holds a generic module(class) that can be used for Neuroevolution (Genetic Algorithms) in various environments. It's heavily based on my [String Matcher](https://github.com/gurupunskill/string-matcher) implementation but instead of strings, we use Neural Networks.
 
 The class is present [here](generic_genetic.py)
 
