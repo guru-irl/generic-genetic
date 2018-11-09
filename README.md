@@ -14,7 +14,7 @@ This is done to keep the module reusable.
 
 ### Initialization Parameters
 
-```python=
+```python
     trainer = neuroevolution(
         population_size = 55, 
         layers = [4, 8, 2], 
